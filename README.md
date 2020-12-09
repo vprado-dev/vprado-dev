@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hello there
 
-<!--
-**VinicinhuSZ/VinicinhuSZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+If you are here let me introduce my self
 
-Here are some ideas to get you started:
+## Public information
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Vinicius Prado. I currently live in Bauru, Brazil and I don't have a work yet, but I make some projects to learn about some programing language.
+
+## Detailed information
+
+* **Name**: Vinicius Prado Cavagna
+* **Age**: 17
+* **Living in**: Bauru, Brazil
+* **Stack**: JavaScript - Node - Bootstrap - SQL
+* **University**: Nope. Only have one I.T associate degree.
