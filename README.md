@@ -11,7 +11,7 @@ My name is Vinicius Prado. I currently live in Bauru, Brazil and I don't have a 
 * **Name**: Vinicius Prado Cavagna
 * **Age**: 18
 * **Living in**: Bauru, Brazil
-* **Stack**: JavaScript - Node - Bootstrap - SQL
+* **Stack**: JavaScript - Node - SQL
 * **University**: Nope. Only have one I.T associate degree.
 
 ---
