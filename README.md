@@ -10,7 +10,7 @@ My name is Vinicius Prado. I currently live in Bauru, Brazil and I make some pro
 * **Age**: 18
 * **Living in**: Bauru, Brazil
 * **Stack**: JavaScript - Node - SQL
-* **University**: Nope. Only have one I.T associate degree.
+* **University**: UNESP - Universidade Estadual Paulista
 
 ## skills and tools
 
