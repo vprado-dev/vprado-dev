@@ -6,7 +6,7 @@ My name is Vinicius Prado. I currently live in Bauru Brazil working as javascrip
 ## Detailed information
 
 * **Name**: Vinicius Prado Cavagna
-* **Age**: 18
+* **Age**: 19
 * **Living in**: Bauru, Brazil
 * **Stack**: JavaScript - Node - SQL
 * **University**: UNESP - Universidade Estadual Paulista
