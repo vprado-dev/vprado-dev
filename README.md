@@ -11,7 +11,7 @@ My name is Vinicius Prado. I currently live in Bauru Brazil working as javascrip
 * **Stack**: JavaScript - Node - SQL
 * **University**: UNESP - Universidade Estadual Paulista
 
-## skills and tools
+## Skills and Tools
 
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
