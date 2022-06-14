@@ -2,7 +2,7 @@
 
 ## Public information
 
-My name is Vinicius Prado. I currently live in Bauru Brazil working as javascript back-end developer at Allcom Sistemas.
+My name is Vinicius Prado. I currently live in Bauru Brazil working as javascript back-end developer at Matchbox Brasil.
 ## Detailed information
 
 * **Name**: Vinicius Prado Cavagna
