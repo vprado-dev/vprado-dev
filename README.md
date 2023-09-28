@@ -8,7 +8,7 @@ On my free time, I like to watch some tech content on YouTube, watch livestreams
 ## Detailed information
 
 * **Name**: Vinicius Prado Cavagna
-* **Age**: 19
+* **Age**: 20
 * **Living in**: Bauru, Brazil
 * **Stack**: JavaScript - Node - SQL
 * **University**: UNESP - Universidade Estadual Paulista
