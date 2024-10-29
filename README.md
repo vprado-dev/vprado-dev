@@ -2,7 +2,7 @@
 
 ## Public information
 
-My name is Vinicius Prado. I currently live in Bauru Brazil working as javascript back-end developer at Matchbox Brasil.
+My name is Vinicius Prado. I currently live in Bauru Brazil working as javascript back-end developer for Finch API.
 
 On my free time, I like to watch some tech content on YouTube, watch livestreams on Twitch or play some video games.
 ## Detailed information
